@@ -1,5 +1,8 @@
 
 Download and carefully unzip it somewhere else and add a "-mingw" suffix to the directory name. https://github.com/google/protobuf/archive/v3.0.0-beta-2.tar.gz
+
+git clone https://github.com/google/protobuf.git
+cd protobuf
 mkdir install_dir
 mkdir cmake_build
 cd cmake_build
